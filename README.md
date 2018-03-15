@@ -4,7 +4,7 @@ Decentralized pet shop application based on blockchain technology
 
 ### Requirements
 * [Nodejs](https://nodejs.org/en/)
-* [Metamask](https://metamask.io/) 
+* [Metamask](https://metamask.io/)
 * [Truffle](http://truffleframework.com/)
 * [Ganache](http://truffleframework.com/ganache/)
 
@@ -12,20 +12,28 @@ Decentralized pet shop application based on blockchain technology
 ### Compile
 Compile solidity to byte code for Ethereum blockchain
 
-```truffle compile```
+```
+truffle compile
+```
 
 
 ### Migrate
 Migrate contracts to blockchain
 
-```truffle migrate```
+```
+truffle migrate
+```
 
 ### Test
 Run the tests
 
-```truffle test```
+```
+truffle test
+```
 
 ### Run
 Start local web server
 
-```npm run dev```
+```
+npm run dev
+```
